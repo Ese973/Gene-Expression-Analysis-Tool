@@ -1,2 +1,2 @@
 # Gene-Expression-Analysis-Tool
-Machine learning tool used for analyzing gene expression based on phenotypic traits
+Here I have started the creation of a gene expression analysis tool using machine learning. The input is a CSV file with different genes as your columns and samples as your rows. THe last column is your phenotype such as if a patient has cancer or not. The practice dataset was created in excel as a way to determnine if the script works. This is my first attempt at generating a script with machine learning aspects and there are still some things to be brushed up on. Future edits are going to be focuses on cleaning up the model and adding ways to generate datasets from GEO ascension numbers. 
